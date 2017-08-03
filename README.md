@@ -2,10 +2,9 @@
 android底部导航
 最近看到Android Studio里新建Activity时共选择模板中Bottom Navigation Activity可以实现Android底部导航的效果，在网上没啥参考资料，于是自己搞个教程方便大家学习指正哈。话不多说，直接效果图:（Android Studio：2.3.1）
 
-
-https://github.com/yangyuscript/AndroidBottomNavigation/raw/master/screenshot/S70803-095321.jpg
-https://github.com/yangyuscript/AndroidBottomNavigation/raw/master/screenshot/S70803-095326.jpg
-https://github.com/yangyuscript/AndroidBottomNavigation/raw/master/screenshot/S70803-095333.jpg
+![image](https://github.com/yangyuscript/AndroidBottomNavigation/blob/master/screenshot/S70803-095321.jpg?raw=true)
+![image](https://github.com/yangyuscript/AndroidBottomNavigation/blob/master/screenshot/S70803-095326.jpg?raw=true)
+![image](https://github.com/yangyuscript/AndroidBottomNavigation/blob/master/screenshot/S70803-095333.jpg?raw=true)
 -----------------------------------
 步骤：
 
